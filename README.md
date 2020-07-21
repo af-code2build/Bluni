@@ -5,7 +5,7 @@
 ### Project Type
 
 - [x] University Project
-- [ ] Self Challenge - Learning New Things
+- [ ] Self Challenge
 - [ ] Project for a Company 
 - [x] Team work
 
