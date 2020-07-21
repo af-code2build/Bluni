@@ -13,7 +13,7 @@
 
 ### Task to accomplish
 
-Design, in MATLAB environment, an application that will receive encrypted messages from other applications, using a preexisting module that simulates, through software, the Bluetooth communication protocol.
+Design, in MATLAB environment, an application that will receive and send encrypted messages from other applications, using a preexisting module that simulates, through software, the Bluetooth communication protocol.
 
 
 
@@ -27,7 +27,7 @@ It is possible to see how this application works through [this](https://youtu.be
 
 The entire project was developed through the work of a team with 4 elements. The goal was to create 3 applications that were able to communicate with each other, through messages encrypted with the user's biometric data (his fingerprint). My main task in this project, was the development of the central application that would receive and send messages to the other two apps.
 
-The idea behind this project was inspired by the most recent technologies that, today, help many people with diabetes. Therefore, this application receives and displays the user's glycemic values (sent by the program that simulates the glycemic sensor)  and communicates with an application that simulates an insulin pump, while also, implementing a simple communication protocol.
+The idea behind this project was inspired by recent technologies that, today, help many people with diabetes. Therefore, this application receives and displays the user's glycemic values (sent by the program that simulates the glycemic sensor)  and communicates with an application that simulates an insulin pump, while also, implementing a simple communication protocol.
 
 
 
@@ -38,7 +38,7 @@ The idea behind this project was inspired by the most recent technologies that, 
 
 
 
-### How to make it work? / How to run the project locally?
+### How to run the project locally?
 
 Simply run the file app_begin.mlapp in MatLab
 
