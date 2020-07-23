@@ -13,7 +13,7 @@
 
 ### Task to accomplish
 
-Design, in MATLAB environment, an application that will receive and send encrypted messages from other applications, using a preexisting module that simulates, through software, the Bluetooth communication protocol.
+Design, in MATLAB environment, an application that will receive and send encrypted messages from other applications, using a preexisting module that simulates, through software, the Bluetooth communication protocol. The entry into the application must be protected by a fingerprint recognition system.
 
 
 
