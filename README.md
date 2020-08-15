@@ -40,6 +40,11 @@ The idea behind this project was inspired by recent technologies that, today, he
 
 ### How to run the project locally?
 
+Install the folling Add-Ons:
+* Communications Toolbox Library for Bluetooth Protocol
+* Image Processing Toolbox 
+* Statiscstics and Machine Learning Toolbox
+
 Simply run the file app_begin.mlapp in MatLab
 
 
